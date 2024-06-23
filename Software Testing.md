@@ -11,3 +11,6 @@ Synthetic transactions involve simulating user interactions with the web applica
 ### Unit testing
 Unit testing focuses on verifying the correctness of individual units or components of code. While important in the development process, unit testing may not be sufficient for evaluating the overall performance and user experience of a web application, especially after an upgrade.
 Unit testing is a software testing technique that focuses on testing individual components or units of code to ensure they function correctly. While unit testing is essential for verifying the functionality of specific code modules, it may not be suitable for evaluating the overall performance of a web application, especially in terms of profitability of new features. Unit testing primarily focuses on code quality and functionality rather than user experience and performance.
+
+### Misuse Case Testing 
+focuses on identifying how a malicious entity, such as a hacker, might exploit vulnerabilities in a software application or system. It involves creating scenarios where the system is intentionally misused to uncover potential security weaknesses and vulnerabilities.
