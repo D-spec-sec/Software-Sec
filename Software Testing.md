@@ -14,3 +14,9 @@ Unit testing is a software testing technique that focuses on testing individual 
 
 ### Misuse Case Testing 
 focuses on identifying how a malicious entity, such as a hacker, might exploit vulnerabilities in a software application or system. It involves creating scenarios where the system is intentionally misused to uncover potential security weaknesses and vulnerabilities.
+
+### Test Coverage Analysis
+involves assessing the extent to which the software has been tested and identifying any gaps in the testing process. By conducting a thorough test coverage analysis, you can prioritize testing efforts on critical areas of the software, ensuring that essential functionalities are thoroughly tested while potentially reducing the overall testing scope to align with the revised budget and schedule.
+
+### Evaluating Integration Test 
+focuses on a specific type of testing within the software development process and may not directly address the need to reevaluate the testing approach in line with the revised budget and schedule. While integration testing is crucial, it is just one aspect of the overall testing strategy and may not be the most relevant choice in this scenario.
