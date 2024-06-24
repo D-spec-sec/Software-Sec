@@ -20,3 +20,7 @@ involves assessing the extent to which the software has been tested and identify
 
 ### Evaluating Integration Test 
 focuses on a specific type of testing within the software development process and may not directly address the need to reevaluate the testing approach in line with the revised budget and schedule. While integration testing is crucial, it is just one aspect of the overall testing strategy and may not be the most relevant choice in this scenario.
+
+
+### SAMM 
+(Software Assurance Maturity Model) is specifically designed to assess and improve security practices within software development processes. It focuses on integrating security practices into various business functions to enhance the overall security posture of an organization. SAMM provides a structured approach to advancing security maturity by addressing security practices at each level of business function maturity.
