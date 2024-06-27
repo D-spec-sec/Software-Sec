@@ -24,3 +24,7 @@ focuses on a specific type of testing within the software development process an
 
 ### SAMM 
 (Software Assurance Maturity Model) is specifically designed to assess and improve security practices within software development processes. It focuses on integrating security practices into various business functions to enhance the overall security posture of an organization. SAMM provides a structured approach to advancing security maturity by addressing security practices at each level of business function maturity.
+
+
+### Confinement
+The term "confinement" in the context of software development refers to the practice of restricting the execution of code to a confined environment, often referred to as a sandbox. This approach is employed for security reasons to limit the impact of potential security vulnerabilities in the code.
