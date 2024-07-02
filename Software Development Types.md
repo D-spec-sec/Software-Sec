@@ -16,3 +16,6 @@ Rapid Application Development (RAD) focuses on quickly building and delivering s
 
 ### Fagan  
 Fagan Inspections involve a formalized, structured approach to reviewing software artifacts to identify defects early in the development process. It includes roles such as moderator, author, reviewer, and scribe, and follows specific entry and exit criteria.
+
+### Spiral 
+The Spiral Method combines elements of the waterfall model with iterative development and incorporates risk management principles. It involves multiple iterations of planning, risk analysis, engineering, and evaluation, allowing for flexibility and adaptation to changing requirements and risks.
