@@ -13,3 +13,6 @@ Kanban is another Agile methodology that emphasizes continuous delivery and flow
 
 ### RAD
 Rapid Application Development (RAD) focuses on quickly building and delivering software by prioritizing rapid prototyping and iteration. It emphasizes delivering a subset of functionality quickly to meet immediate needs
+
+### Fagan  
+Fagan Inspections involve a formalized, structured approach to reviewing software artifacts to identify defects early in the development process. It includes roles such as moderator, author, reviewer, and scribe, and follows specific entry and exit criteria.
