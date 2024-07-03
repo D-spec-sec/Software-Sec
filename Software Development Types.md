@@ -22,3 +22,6 @@ The Spiral Method combines elements of the waterfall model with iterative develo
 
 ### Build and Fix
 "Build and Fix (or ad hoc)," describes a model where developers quickly build a software product without much planning or formal processes, then make modifications based on feedback or issues encountered. However, this approach often leads to unpredictable results and can result in poor-quality software.
+
+### XP
+XP (extreme programming) emphasizes continuous testing, frequent releases, and pair programming, but it doesn't specifically involve delivering an initial product and then iteratively modifying it based on customer feedback.
