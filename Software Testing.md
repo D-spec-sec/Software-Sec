@@ -28,3 +28,6 @@ focuses on a specific type of testing within the software development process an
 
 ### Confinement
 The term "confinement" in the context of software development refers to the practice of restricting the execution of code to a confined environment, often referred to as a sandbox. This approach is employed for security reasons to limit the impact of potential security vulnerabilities in the code.
+
+### Regression
+Regression testing is the type of testing specifically designed to verify that recent changes or updates to a software application have not caused any unintended side effects or regressions in existing functionality. It ensures that previously developed and tested features still work as expected after modifications or enhancements have been made to the software.
