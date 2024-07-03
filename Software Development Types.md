@@ -19,3 +19,6 @@ Fagan Inspections involve a formalized, structured approach to reviewing softwar
 
 ### Spiral 
 The Spiral Method combines elements of the waterfall model with iterative development and incorporates risk management principles. It involves multiple iterations of planning, risk analysis, engineering, and evaluation, allowing for flexibility and adaptation to changing requirements and risks.
+
+### Build and Fix
+"Build and Fix (or ad hoc)," describes a model where developers quickly build a software product without much planning or formal processes, then make modifications based on feedback or issues encountered. However, this approach often leads to unpredictable results and can result in poor-quality software.
